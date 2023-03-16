@@ -1,0 +1,77 @@
+body {
+    margin:0 auto;
+    padding: 0;
+    width: 375px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* common CSS */
+
+
+.avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+
+.section-footer span, .user-id {
+    font-weight: 700;
+}
+
+
+/* header */
+
+header {
+    display: flex;
+    padding: 16px 15px;
+    border-bottom: 1px solid #C6C6C6;;
+}
+
+.logo-img {
+    margin-right: 91px;
+    width: 127px;
+}
+
+.user-avatar {
+    margin: 15px 0px 0px 91px;
+}
+
+
+/* section */
+
+section {
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.section-header div {
+    margin-left: 7px;
+    margin-top: 3px;
+}
+
+.vangogh-post {
+    width: 375px;
+}
+
+.section-header {
+    display: flex;
+    margin: 11px 10px;
+}
+
+.icon-img {
+    width: 23px;
+    padding-right: 20px;
+}
+
+.section-footer {
+    margin: 21px 19px 16px 10px;
+}
+
+.likes {
+    margin: 12px 0px;
+}
